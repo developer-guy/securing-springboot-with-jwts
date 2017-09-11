@@ -1,4 +1,5 @@
-### **SpringBoot Securing Routes With JWT(Json Web Token)**
+![alt_text](http://stormpath.com/wp-content/uploads/2016/05/spring-boot-logo.jpg)![alt text](https://cdn.auth0.com/blog/ebooks/jwt-logo.png)
+# SpringBoot Securing Routes With JWT :rocket:
 This project is a sample for using Spring Security with JWT.For more information you can check this page : 
 
 https://auth0.com/blog/securing-spring-boot-with-jwts/
