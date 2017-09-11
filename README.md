@@ -10,6 +10,6 @@ https://auth0.com/blog/securing-spring-boot-with-jwts/
 
 - [x] first you send post request to login then take your token , after that you will get your users by using this token .
 
-**`1 - curl -v -H "Content-Type: application/json" -X POST -d '{"username":"admin","password":"password"}' http://localhost:8080/login`**  
+**`curl -v -H "Content-Type: application/json" -X POST -d '{"username":"admin","password":"password"}' http://localhost:8080/login`**  
  
-**`2 - curl -H "Accept: application/json"  -H "Authorization: Bearer token_value" -X GET http://localhost:8080/users | json_pp `**
+**`curl -H "Accept: application/json"  -H "Authorization: Bearer token_value" -X GET http://localhost:8080/users | json_pp `**
