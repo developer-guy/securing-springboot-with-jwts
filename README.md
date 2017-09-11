@@ -4,13 +4,11 @@ This project is a sample for using Spring Security with JWT.For more information
 
 https://auth0.com/blog/securing-spring-boot-with-jwts/
 
-If you want to test without starting application , please start our test : **`./mvnw test`**
+- [x] If you want to test without starting application , please start our test : **`./mvnw test`**
 
-In the other hand if you start the application using : **`./mvnw spring-boot:run`**
+- [x] In the other hand if you start the application using : **`./mvnw spring-boot:run`** 
 
-first you send post request to login then take your token , after that
-
-you will get your users by using this token .
+- [x] first you send post request to login then take your token , after that you will get your users by using this token .
 
 **`1 - curl -v -H "Content-Type: application/json" -X POST -d '{"username":"admin","password":"password"}' http://localhost:8080/login`**  
  
