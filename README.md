@@ -1,3 +1,7 @@
+![]({{site.baseurl}}/http://stormpath.com/wp-content/uploads/2016/05/spring-boot-logo.jpg)
+
+![]({{site.baseurl}}/https://jwt.io/assets/logo.svg)
+
 ### **SpringBoot Securing Routes With JWT(Json Web Token)**
 This project is a sample for using Spring Security with JWT.For more information you can check this page : 
 
