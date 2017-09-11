@@ -1,5 +1,3 @@
-![]({{site.baseurl}}/https://cdn.auth0.com/blog/ebooks/jwt-logo.png)
-
 ### **SpringBoot Securing Routes With JWT(Json Web Token)**
 This project is a sample for using Spring Security with JWT.For more information you can check this page : 
 
